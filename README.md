@@ -2,7 +2,8 @@
 
 SAS Stores is a general purpose stationary shop locate in Kolkata, \nWest Bengal. We provide a widerange of stationary items through our vast array of stationary supplies. We've partnered with major and reputable suppliers and manufacturers to ensure that only the best supplies are sold. This has improved our brand and made us a trusted name in the Kolkata area.
 
-<hr />
+<br />
+<br />
 
 # Demo
 
